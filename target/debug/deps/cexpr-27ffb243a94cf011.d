@@ -1,0 +1,10 @@
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/debug/deps/libcexpr-27ffb243a94cf011.rmeta: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/expr.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/literal.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/token.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/debug/deps/libcexpr-27ffb243a94cf011.rlib: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/expr.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/literal.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/token.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/debug/deps/cexpr-27ffb243a94cf011.d: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/expr.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/literal.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/token.rs
+
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/lib.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/expr.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/literal.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cexpr-0.6.0/src/token.rs:

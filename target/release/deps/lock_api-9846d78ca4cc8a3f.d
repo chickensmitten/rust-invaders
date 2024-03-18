@@ -1,0 +1,10 @@
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/liblock_api-9846d78ca4cc8a3f.rmeta: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/mutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/remutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/rwlock.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/liblock_api-9846d78ca4cc8a3f.rlib: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/mutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/remutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/rwlock.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/lock_api-9846d78ca4cc8a3f.d: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/mutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/remutex.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/rwlock.rs
+
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/lib.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/mutex.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/remutex.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.3.4/src/rwlock.rs:

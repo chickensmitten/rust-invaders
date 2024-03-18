@@ -1,0 +1,9 @@
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/build/clang-sys-2c42d2931baab871/build_script_build-2c42d2931baab871: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/build/clang-sys-2c42d2931baab871/build_script_build-2c42d2931baab871.d: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs
+
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/macros.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/common.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/dynamic.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/build/static.rs:

@@ -1,0 +1,10 @@
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/liblog-46b5f8d0b7520270.rmeta: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/liblog-46b5f8d0b7520270.rlib: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/shengyeongchia/code-directory/playground/udemy-ultimate-rust-crash-course/invaders/target/release/deps/log-46b5f8d0b7520270.d: /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs /Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs
+
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/lib.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/macros.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/serde.rs:
+/Users/shengyeongchia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.21/src/__private_api.rs:
