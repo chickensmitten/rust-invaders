@@ -1,10 +1,10 @@
 use std::{
-  error::Error, io, sync::mpsc, thread, time::Duration
+  error::Error, io, sync::mpsc, thread, time::{Duration, Instant}
 };
 use crossterm::{
   cursor::{Hide, Show}, event::{self, Event, KeyCode}, terminal::{self, EnterAlternateScreen, LeaveAlternateScreen}, ExecutableCommand
 };
-use invaders::{frame::{self, new_frame, Drawable}, player::Player, render};
+use invaders::{frame::{self, new_frame, Drawable}, invaders::Invaders, player::Player, render};
 use rusty_audio::Audio;
 
 fn main() -> Result <(), Box<dyn Error>> {
@@ -41,8 +41,12 @@ fn main() -> Result <(), Box<dyn Error>> {
 
   // Game Loop
   let mut player = Player::new();
+  let mut instant = Instant::now();
+  let mut invaders = Invaders::new();
   'gameloop: loop {
     // Per-frame init
+    let delta = instant.elapsed();
+    instant = Instant::now();
     let mut curr_frame = new_frame();
     
     // Input
@@ -51,6 +55,11 @@ fn main() -> Result <(), Box<dyn Error>> {
         match key_event.code {
           KeyCode::Left => player.move_left(),
           KeyCode::Right => player.move_right(),
+          KeyCode::Char(' ') | KeyCode::Enter => {
+            if player.shoot() {
+              audio.play("pew");
+            }
+          }
           KeyCode::Esc | KeyCode::Char('q') => {
             audio.play("lose");
             break 'gameloop;
@@ -60,10 +69,34 @@ fn main() -> Result <(), Box<dyn Error>> {
       }
     }
 
+    // Updates
+    player.update(delta);
+    if invaders.update(delta) {
+      audio.play("move");
+    }
+    if player.detect_hits(&mut invaders) {
+      audio.play("explode");
+    }
+
     // Draw & render
-    player.draw(&mut curr_frame);
+    // player.draw(&mut curr_frame); // dont need this if bottom drawable is there
+    // invaders.draw(&mut curr_frame); // dont need this if bottom drawable is there
+    let drawables: Vec<&dyn Drawable> = vec![&player, &invaders];
+    for drawable in drawables {
+      drawable.draw(&mut curr_frame);
+    }
     let _ = render_tx.send(curr_frame);
     thread::sleep(Duration::from_millis(1));
+
+    // Win or Lose?
+    if invaders.all_killed() {
+      audio.play("win");
+      break 'gameloop;
+    }
+    if invaders.reached_bottom() {
+      audio.play("lose");
+      break 'gameloop;
+    }
   }
 
   // Cleanup
